@@ -1,5 +1,5 @@
 # SQL-Practice_and_Problem-Solving
-This repository documents my ongoing progress in learning and improving SQL through structured problem-solving.
+This repository documents my ongoing progress in learning and improving SQL (Microsoft SQL Server) through structured problem-solving.
 
 ## Purpose
 The goal of this project is to demonstrate steady improvement in SQL by:
